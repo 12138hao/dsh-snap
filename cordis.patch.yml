@@ -1,0 +1,4 @@
+# dsh-snap bundle patch — host half (HTTP routes) + client half (inline button).
+- insert:
+    - id: snap-host
+      name: 'dsh-snap'
